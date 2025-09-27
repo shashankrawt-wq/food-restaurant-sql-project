@@ -8,7 +8,7 @@ Instead of random `SELECT * FROM table;`, the queries here focus on **growth, cu
 
 The dataset is simple — just **one table** called `Orders`:  
 
-![Orders ERD](orders_table_erd.png)
+![Orders ERD](https://github.com/shashankrawt-wq/food-restaurant-sql-project/blob/b453c70ef0e674fd55397b1ef9099b6d9517702b/food-restaurant-sql-project/orders_table_erd.png)
 
 Columns: 
 - Order_id → unique ID for each order  
@@ -43,6 +43,7 @@ Some of the queries in this project:
 
 6. How many were acquired in Jan 2025 without promo codes?
    → Growth team question: “What % of new customers came organically?”  
+
 
 
 
